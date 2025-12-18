@@ -36,3 +36,7 @@ macos/Pods/
 
 # Environment variables
 .env
+
+# Firebase configuration
+google-services.json
+android/app/google-services.json
