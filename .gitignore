@@ -33,4 +33,6 @@ macos/Pods/
 
 # Logs
 *.log
-x
+
+# Environment variables
+.env
